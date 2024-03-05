@@ -2,7 +2,7 @@
 
 Source document: [link](https://arxiv.org/pdf/2307.06435.pdf)
 
-The goal of the assignment is to take the attached source document and create a multi-modal (text + images) semantic search engine using Langchain or Llamaindex:
+The core of the assignment is to take the attached source document and create a multi-modal (text + images) semantic search engine using Langchain or Llamaindex:
 
 - the goal of the engine is to be able to reliably return 2-3 most semantically relevant artefacts to the user query - either small chunks of text alone (something between 500-1000 characters per chunk), or images alone, or chunks of text + images, depending on the relevance to the user query
 
