@@ -16,3 +16,4 @@ The core of the assignment is to take the attached source document and create a 
   - dockerize the whole project
 
 - send the GH link sometime next week to jakub.jun@knowdroids.ai
+- for questions contact filip.sikora@knowdroids.ai
