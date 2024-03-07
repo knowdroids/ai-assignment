@@ -11,3 +11,9 @@ The core of the assignment is to take the attached source document and create a 
 - the only requirements for the technologies you use is Langchain or Llamaindex. You can get creative with everything else and choose freely whatever you find appropriate for the task at hand
 
 - the format of your final solution can be either a shared Google Colab, or a link to the GH repo with the code, or a Streamlit app with very basic UI. However, due to the fact that developing the UI is not at all important for the assignment, shared Google Colab or GH repo would be the go-to choices
+
+- optional parts
+  - answer synthesis using LLM
+  - dockerize the whole project
+
+- send the GH link sometime next week to jakub.jun@knowdroids.ai
